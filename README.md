@@ -6,7 +6,6 @@ As a software engineering student, I’m committed to improving my coding skills
 Here’s what you’ll find here:
 - 🛠 Small coding exercises and challenges
 - 🚀 Mini-projects in different programming languages
-- 📅 Regular updates (daily or 2–3 times per week)
 - 📚 My personal journey to grow as a developer
 
 ---
